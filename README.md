@@ -2,8 +2,8 @@
 
 Welcome to Move It, where we are dedicated to providing exceptional moving services with a focus on making the process as seamless and enjoyable as possible.
 
-## Deployments
-    https://fahadibnatuhin.github.io/Move-It_Moving-Company-Website/
+## To experience Move It:
+    visit our [Move It Website](https://fahadibnatuhin.github.io/Move-It_Moving-Company-Website/).
 
 ## Mission
 
